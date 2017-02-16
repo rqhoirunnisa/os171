@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 17:20 .
+drwx--x--x  3 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 17:18 ..
+drwxr-xr-x  8 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 17:19 .git
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 15:33 key
+-rw-r--r--  1 qhoirunisa.raharjadiyanti StafCS    0 Feb 16 17:21 lab01.txt
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 15:32 log
+-rw-r--r--  1 qhoirunisa.raharjadiyanti StafCS    7 Feb 15 13:10 README.md
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 17:12 sandbox
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 17:18 week00
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 15:31 week01
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 15:31 week02
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 15:31 week03
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 15:31 week04
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 15:31 week05
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 15:32 week06
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 15:32 week07
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 15:32 week08
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 15:32 week09
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 15:32 week10
+drwxr-xr-x  2 qhoirunisa.raharjadiyanti StafCS 4096 Feb 16 15:33 xtra
+/home/fasilkom/mahasiswa/q/qhoirunisa.raharjadiyanti/os171/week01
