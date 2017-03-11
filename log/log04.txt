@@ -1,0 +1,17 @@
+w04-170308-20-LR-Review variable and pointer
+w04-170309-13-LR-About: Pointer and I/O, from: Lecturer
+w04-170309-13-LR-About: Pointer and I/O, from: Lecturer
+w04-170309-14-LR-About: Pointer and I/O, from: Lecturer
+w04-170309-14-LR-About: Pointer and I/O, from: Lecturer
+w04-170309-19-DS-Discuss about I/O and pointer
+w04-170309-19-DS-Discuss about I/O and pointer
+w04-170310-16-PS: Lab operating system week04
+w04-170310-16-PS: Lab operating system week04
+w04-170310-17-PS: Lab operating system week04
+w04-170310-18-PS: Lab operating system week04
+w04-170310-18-PS: Lab operating system week04
+w04-170310-19-PS: Lab operating system week04
+w04-170310-09-PS: Lab operating system week04
+w04-170310-09-PS: Lab operating system week04
+w04-170310-10-PS: Lab operating system week04
+w04-170310-10-PS: Lab operating system week04
