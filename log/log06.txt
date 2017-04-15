@@ -1,0 +1,15 @@
+w06-170410-20-DS-Discuss about synchronization
+w06-170410-20-LR-Discuss about synchronization
+w06-170410-21-DS-Discuss about synchronization
+w06-170410-21-LR-Discuss about synchronization
+w06-170413-13-LR-About: Synchronization, from: Lecturer
+w06-170413-13-LR-About: Synchronization, from: Lecturer
+w06-170413-14-LR-About: Synchronization, from: Lecturer
+w06-170413-14-LR-About: Synchronization, from: Lecturer
+w06-170415-08-DS-Discuss about Fork 
+w06-170415-08-PS: Lab operating system week06
+w06-170415-09-PS: Lab operating system week06
+w06-170415-09-PS: Lab operating system week06
+w06-170415-11-PS: Lab operating system week06
+w06-170415-11-PS: Lab operating system week06
+w06-170415-12-PS: Lab operating system week06
