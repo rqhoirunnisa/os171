@@ -1,0 +1,8 @@
+Github account  : rqhoirunnisa
+URL Ulasan      : http://rqhoirunnisa.blogspot.co.id/2017/05/interrupts-vs-polling.html
+URL Video       : https://youtu.be/APPku9lmpP0
+Pemetaan        : week04
+Revisi pertama  : 19 Mei 2017
+Revisi kedua    : 19 Mei 2017
+
+
