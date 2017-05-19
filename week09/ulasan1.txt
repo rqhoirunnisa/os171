@@ -4,4 +4,7 @@ URL Video       : https://youtu.be/APPku9lmpP0
 Pemetaan        : week04
 Revisi pertama  : 19 Mei 2017
 Revisi kedua    : 19 Mei 2017
+<<<<<<< HEAD
 
+=======
+>>>>>>> 13b2d75f9428aaacd91162ffd748cc499aba3cf3
